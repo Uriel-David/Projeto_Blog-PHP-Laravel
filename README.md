@@ -1,7 +1,7 @@
 # Projeto_Blog-PHP-Laravel
 Personal Hands-On Project: Developing a Blog using PHP/Laravel.
 
-## Para rodar este projeto
+## For Build the project
 ```bash
 $ git clone https://github.com/Uriel-David/Projeto_Blog-PHP-Laravel.git
 $ cd blog-php
